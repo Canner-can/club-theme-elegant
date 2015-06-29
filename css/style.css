@@ -1,0 +1,43 @@
+html {
+  font-family: 'Noto Sans', 'sans-serif', 'Microsoft Jhenghei';
+  width: 100%;
+  height: 100%; }
+
+body {
+  color: #222;
+  background: #f0f0f0; }
+
+.left-s, .right-s {
+  padding: 8px; }
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 3px;
+  min-height: 500px;
+  padding: 10px; }
+
+.contact-info, .about p {
+  padding-left: 20px;
+  padding-right: 10px;
+  font-size: 14px;
+  margin: 10px; }
+
+.logo {
+  width: 120px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto; }
+
+.news {
+  display: table;
+  padding: 10px 0; }
+
+.right-card {
+  padding: 10px 20px; }
+
+.right-card h4 {
+  color: #707070; }
+
+.fa-tag {
+  margin: 5px; }
